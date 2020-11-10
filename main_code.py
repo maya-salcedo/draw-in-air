@@ -87,3 +87,5 @@ while True:
 
 cv2.destroyAllWindows()
 cap.release()
+
+#nice project
